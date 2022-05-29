@@ -11,7 +11,7 @@ pytube (how to install pytube: https://pytube.io/en/latest/user/install.html)
 
 ### How to use?
 
-1. Open the main.py and copy your YouTube video link into it
+1. Open the main.py file and paste the link to your YouTube video into it
 
 2. Video is downloaded and placed in the same directory where the main.py is located
 
