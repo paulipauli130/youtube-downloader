@@ -1,4 +1,4 @@
-# YouTube downloader
+# Python and Pytube YouTube downloader
 A YouTube video downloader coded with Python and the pytube module
 
 ## Requirements
